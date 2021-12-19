@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>trabalho de DAW</title>
+<link rel="stylesheet" type="text/css" href="style.CSS"/>
+</head>
+<body>
+<div id=".menu1">
+<a href="informações.html">Home</a>
+<a href="Formulário Brinquedos.html">Formulário</a>
+<a href="Tabela trabalho.html">Tabela</a>
+<a href="mailto:Tonpugliesi@ig.com.br">Enviar e-mail para Ton</a>
+</div>
+<div id="topo">
+<h1>Brinquedos</h1>
+</div>
+<div id="conteudoEsq">
+<h2>Paginas</h2>
+<br>
+<a href="imagem-1.html">Educativo</a>
+<br>
+<a href="imagem-2.html">Atuais</a>
+<br>
+<a href="imagem-3.html">Futuros</a>
+<br>
+<a href="imagem-4.html">Gente Grande</a>
+<br>
+<a href="imagem-5.html">Caros</a>
+<br>
+<a href="imagem-6.html">Antigos</a>
+<br>
+<a href="imagem-7.html">Raros</a>
+</div>
+     <div id="colEsq">
+   <div id="sepEsqcolCentral">
+  <div id="colDir">
+ <div id="conteudoDir">
+<h2>Links<h2>
+<br>
+<a href="http://www.google.com/">Google</a>
+<br>
+<a href="http://www.abrinq.com.br/">Abrinq</a>
+<Br>
+<a href="http://www.inmetro.gov.br/">Inmetro</a>
+<br>
+<a href="http://www.brinquedosraros.com.br/">Brinquedos Raros</a>
+<br>
+<a href="http://www.playtoy.com.br/">Playtoy</a>
+<br>
+<a href="http://jovem.uol.com.br/ultnot/2008/11/01/ult4334u648.jhtm/" Target="principal">Galeria de Brinquedos</a>
+</div>
+ <div id="SepcolCentralDir">
+  <div id="ColCentral">
+   <h3>Imagens</h3>
+<Img src="brinquedos-educativos.jpg" align="top" boder="7" height="100" width="100" vspace="10" hpace="20" hpace="20">Imagem 1
+<br>   
+<Img src="playstation2.jpg" align="top" boder="7" height="100" width="100" vspace="10" hpace="20" hpace="20">Imagem 2
+<br>
+    <Img src="thundertanque.jpg" align="top" boder="7" height="100" width="100" vspace="10" hpace="20" hpace="20">Imagem 3
+<br>
+    <Img src="rocket_belt.jpg" align="top" boder="7" height="100" width="100" vspace="10" hpace="20" hpace="20">Imagem 4
+<br>
+    <Img src="Carros.jpg" align="top" boder="7" height="100" width="100" vspace="10" hpace="20" hpace="20">Imagem 5
+<br>
+    <Img src="Ferrorama.jpg" align="top" boder="7" height="100" width="100" vspace="10" hpace="20" hpace="20">Imagem 6
+<br>
+    <Img src="Brinquedo Raro.jpg" align="top" boder="7" height="100" width="100" vspace="10" hpace="20" hpace="20">Imagem 7
+       </div>
+      </div>
+     </div>
+    </div>  
+   </div>
+  </body>
+ </html>

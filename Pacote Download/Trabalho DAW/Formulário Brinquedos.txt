@@ -1,0 +1,85 @@
+<html>
+<head>
+<title>Formulário</title>
+<link type="text/css" rel="stylesheet" media="all" href="Trabalho de CSS.CSS"/>
+</head>
+<body>
+<form>
+<form name="Formulário">Formulário</form>
+<fieldset>
+<legend>Dados para login</legend>
+<form>
+Usuário:<input type="Password" name="senha" size="5"><br>
+Senha:<input type="Password" name="senha" size="6"><br>
+</fieldset>
+</form>
+<fieldset>
+<legend>Dados Pessoais</legend>
+<Form>
+Name:<input type="text" name="Nome">
+Endereço:<input type="text" name="Endereço">
+N.<input type="text" name="N" size="2">
+Complemento:<input type="text" name="Complemento">
+E-mail:<input type="text" name="E-mail">
+Telefone:<input type="text" name="Tel Res.">
+Celular:<input type="text" name="Tel Cel."><br>
+Sexo:<input type="radio" name="sexo" value="Masculino">Masculino
+<input type="radio" name="sexo" value="Feminino" Checked>Feminino
+<input type="radio" name="sexo" value="Nenhum" checked>Nenhum<br>
+Idade:<input type="text" name="Idade" size="3"><br>
+Foto:<input type="text" name="foto">
+<input type="submit"  Value="Browse..." Size="4" >
+</fieldset>
+</form>
+<fieldset>
+<legend>Generos Preferidos</legend><br>
+<form>
+<input type="Checkbox" name="tipo" value="Carrinhos">Carrinhos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="Checkbox" name="tipo" value="Modelagem">Modelagem<br>  
+<input type="Checkbox" name="tipo" value="Montagem">Montagem&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="Checkbox" name="tipo" value="Eletronicos">Eletronicos<br>
+<input type="Checkbox" name="tipo" value="Ação">Ação&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="Checkbox" name="tipo" value="Jogos">Jogos<br> 
+<input type="Checkbox" name="tipo" value="Educativos">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="Checkbox" name="tipo" value="Bichos de Pelucia"><br>
+</fieldset>
+</form> 
+<fieldset>
+<legend>Meio Preferido</legend>
+<form>
+<input type="Checkbox" name="Grupo">Grupo<br>
+<input type="Checkbox" name="Sozinho" checked>Sozinho<br>
+Quantos brinquedos possui:<select name="" size="1">
+<option value="vazio" select>????</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+</select>
+</fieldset>
+</form>
+<fieldset>
+<legend>Utilização</legend>
+<form>
+Quantas vezes o utiliza:<select name="" size="1">
+<option value="vazio" select>????</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+</select>
+</fieldset>
+</form>
+</fieldset>
+</form>
+</body>
+</html>

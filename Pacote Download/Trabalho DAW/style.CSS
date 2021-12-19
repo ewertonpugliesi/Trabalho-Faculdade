@@ -1,0 +1,198 @@
+<html>
+<head>
+<style type="text/css">
+<title>Trabalho CSS de DAW</title>
+Body
+{
+background-color:#000099;
+MARGIN:0 0 5px 0;
+padding:0;
+font:italic 14px/1.5em 
+Verdana, Arial, Serif;
+}
+#topo
+{
+	width:auto;
+	height:50px;
+	background-color:#0000CC;
+	border-top:1px solid #3300FF;
+	border-bottom:2px dotted #3300FF;
+	color:#FFCCFF;
+	text-align:center;
+}
+#conteudoEsq {
+	position:absolute;
+	width:250px;
+	top:100px;
+	left:10px;
+	color:#99f;
+	padding-bottom:10px;
+	border-bottom:3px double #3300FF;}
+#conteudoDir {
+	position:absolute;
+	width:250px;
+	top:100px;
+	right:10px;
+	color:#99f;
+	padding-bottom:10px;
+	border-bottom:3px double #3300FF;}
+#ColEsq{
+background-color:#000099
+}
+#SepEsqcolCentral{margin-left:250px;
+	padding-left:2px;
+        background:#3300FF;}
+#colDir {
+	background-color:#000099;
+	margin:0px;
+}
+#SepcolCentralDir {
+	margin-right:250px;
+	padding-right:2px;
+	background-color:000099;
+}
+#ColCentral {    
+	background-color:330066;
+	color:#991;
+	padding:1px 05px;
+	text-align:justify;
+	border-bottom:1px solid #3300FF;
+}
+
+.menu1 
+{  padding:0 0 0 30px; 
+   padding:0; 
+   margin:0;
+   list-style:none; 
+   height:35px; 
+   background:#000066; 
+   position:relative; 
+   border:1px solid #0033FF; 
+   border-width:0  1px; 
+   border-bottom:1px solid #444;
+}
+.menu li 
+{
+float:left;
+}
+.menu1 li a
+{
+   display:block; 
+   float:left; 
+   height:35px; 
+   line-height:35px; 
+   color:#330099; 
+   text-decoration:none; 
+   font-size:11px; 
+   font-family:arial; 
+   font-weight:bold; 
+   text-align:center; 
+   padding-left:0 0 8px;
+   boder-left:5px; 
+   cursor:pointer;
+}
+.menu1 li a
+{
+   float:left; 
+   display:block; 
+   padding:0 16px 0 8px; 
+}
+.menu1 li.corrente a 
+{
+   color:#330099; 
+   background:#3333CC no-repeat right top;
+
+   
+}
+.menu1 li a:hover 
+{
+   color:#330099; 
+   background:#3333CC no-reapeat right top;
+}
+.menu1 li.corrente a:houver
+{ 
+color:#fff;
+background:#99CCFF no-repeat right top;
+cursor:default;
+}
+ H1
+{COLOR:#990033;
+FONT-FAMILY:ariel;
+FONT-STYLE: medium;
+FONT-SIZE:  40px;
+TEXT-DECORATION:none;  
+LETTER SPACING:0,5cm
+Text-Align:center;}
+   H2
+{COLOR:#006600;
+FONT-FAMILY :arial;
+FONT-STYLE :medium;
+FONT-SIZE :20px;
+TEXT-DECORATION:none;
+LETTER SPACING:0,5cm}
+        H3
+{COLOR:#FF9933;
+FONT-FAMILY :ariel;
+FONT-STYLE :medium;
+FONT-SIZE  :20px;
+FONT-WEIGHT:30px;
+TEXT-DECORATION:none;
+TEXT-ALIGN :left;
+LETTER SPACING:0,5cm}
+        *#sel 1
+{
+COLOR:#330000;
+FONT-FAMILY:ariel;
+FONT-STYLE:medium;
+FONT-SIZE :20px;
+TEXT-DECORATION:none;
+LETTER SPACING:0,5cm;
+}
+         LI
+{font-family: Arial;
+font-size: medium;
+color: #000080;
+position: relative;}
+UL
+{font-family: Arial;
+font-weight: bold;
+color: #0000FF;
+text-decoration: underline;
+position: relative}
+P              
+{font-family:Font Times;
+font-size: 12pt;
+position: relative;
+margin-left:30px
+}
+         TD
+{font-family: sans-serif;
+font-size: medium;
+background: #99CCCC;}
+     TH
+{
+FONT-FAMILY:ariel;
+FONT-STYLE:medium;
+FONT-SIZE:25px;
+TEXT-DECORATION:negrito;
+LETTER SPACING :0,6cm;
+BORDER-STYLE:inset;
+BORDER:10px
+}
+.formulario{
+font-family:ariel;
+FONT-STYLE:medium;
+FONT-SIZE:25px;
+BORDER-STYLE:inset;
+BORDER:5px;
+background-color:#FFCCCC;
+}
+#picture{
+background-color:#33CC99;
+float:left;
+width:100px;
+}
+</style>
+</head>
+</html>
+
